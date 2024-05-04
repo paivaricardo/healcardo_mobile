@@ -25,6 +25,7 @@ migrate_working_dir/
 /firebase.json
 /lib/firebase_options.dart
 /android/app/google-services.json
+firepit-log.txt
 
 # Flutter/Dart/Pub related
 **/doc/api/
